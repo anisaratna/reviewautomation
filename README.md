@@ -21,7 +21,7 @@ Unlike standard sentiment analysis, this project explores the correlation betwee
 While the product maintains an overall **89% positive sentiment**, the analysis revealed that **Combination Skin** users show the highest variance in satisfaction. 
 * *Hypothesis:* The current gel formula might be optimal for the T-zone but lacks sufficient hydration for the dryer U-zone.
 
-[PASTE YOUR CHARTS HERE]
+<img width="1432" height="586" alt="gambar" src="https://github.com/user-attachments/assets/82084023-4c43-42cc-8bcc-b310ead20deb" />
 
 ## AI-Generated Executive Recommendations (R&D Roadmap)
 Based on the automated thematic clustering of 400 reviews:
@@ -29,6 +29,7 @@ Based on the automated thematic clustering of 400 reviews:
 2. **Formula Transparency:** Address concerns about "eye stinging" mentioned in 7% of negative reviews by optimizing the preservative system.
 
 ## Repository Structure
-* `notebooks/`: Contains the full pipeline from scraping to LLM processing.
-* `data/`: Raw and processed datasets.
-* `requirements.txt`: Necessary libraries (`groq`, `beautifulsoup4`, `pandas`, `seaborn`).
+* `Beauty_Review_LLM.ipynb`: Contains the full pipeline from scraping to LLM processing.
+* `azarine_reviews_large.csv `: Raw datasets.
+* `ai_analysis_results.cs `: Processed datasets.
+* `requirements.txt`: Necessary libraries 

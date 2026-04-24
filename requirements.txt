@@ -1,0 +1,18 @@
+# Data Acquisition 
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+
+# Data Manipulation
+pandas>=2.0.3
+numpy>=1.24.3
+
+# LLM Integration
+groq>=0.4.2
+
+# Visualization
+matplotlib>=3.7.1
+seaborn>=0.12.2
+plotly>=5.15.0
+
+# Environment Handling
+python-dotenv>=1.0.0
